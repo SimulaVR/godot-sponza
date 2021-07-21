@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/vase_round_spec.tga-bb7b0c8162091e52a24ce22094adca32.stex"
+path="res://.import/vase_round_spec.tga-221fd3f2d476d6e8c09e326e1ae04a01.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://sponza/textures/vase_round_spec.tga"
-dest_files=[ "res://.import/vase_round_spec.tga-bb7b0c8162091e52a24ce22094adca32.stex" ]
+source_file="res://scenes/godot-sponza/sponza/textures/vase_round_spec.tga"
+dest_files=[ "res://.import/vase_round_spec.tga-221fd3f2d476d6e8c09e326e1ae04a01.stex" ]
 
 [params]
 

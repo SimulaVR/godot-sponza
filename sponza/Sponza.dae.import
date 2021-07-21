@@ -2,12 +2,12 @@
 
 importer="scene"
 type="PackedScene"
-path="res://.import/Sponza.dae-a161e2224a3a973c5f9f90d5ce6bb52a.scn"
+path="res://.import/Sponza.dae-2b1235547cea8fa86ed095c375e0b353.scn"
 
 [deps]
 
-source_file="res://sponza/Sponza.dae"
-dest_files=[ "res://.import/Sponza.dae-a161e2224a3a973c5f9f90d5ce6bb52a.scn" ]
+source_file="res://scenes/godot-sponza/sponza/Sponza.dae"
+dest_files=[ "res://.import/Sponza.dae-2b1235547cea8fa86ed095c375e0b353.scn" ]
 
 [params]
 

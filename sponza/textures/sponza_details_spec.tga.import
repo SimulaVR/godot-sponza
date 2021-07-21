@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/sponza_details_spec.tga-74177a86fa2bc4423e3d3ef362b889c8.stex"
+path="res://.import/sponza_details_spec.tga-42f5f5869d53bdc1181e7f562957f61f.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://sponza/textures/sponza_details_spec.tga"
-dest_files=[ "res://.import/sponza_details_spec.tga-74177a86fa2bc4423e3d3ef362b889c8.stex" ]
+source_file="res://scenes/godot-sponza/sponza/textures/sponza_details_spec.tga"
+dest_files=[ "res://.import/sponza_details_spec.tga-42f5f5869d53bdc1181e7f562957f61f.stex" ]
 
 [params]
 

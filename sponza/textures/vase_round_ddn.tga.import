@@ -2,16 +2,17 @@
 
 importer="texture"
 type="StreamTexture"
-path.s3tc="res://.import/vase_round_ddn.tga-e748ab661c1861e8ce8c602160e630d8.s3tc.stex"
+path.s3tc="res://.import/vase_round_ddn.tga-4c052373ca14ce9c8839ef7b361fb2b7.s3tc.stex"
+path.etc2="res://.import/vase_round_ddn.tga-4c052373ca14ce9c8839ef7b361fb2b7.etc2.stex"
 metadata={
-"imported_formats": [ "s3tc" ],
+"imported_formats": [ "s3tc", "etc2" ],
 "vram_texture": true
 }
 
 [deps]
 
-source_file="res://sponza/textures/vase_round_ddn.tga"
-dest_files=[ "res://.import/vase_round_ddn.tga-e748ab661c1861e8ce8c602160e630d8.s3tc.stex" ]
+source_file="res://scenes/godot-sponza/sponza/textures/vase_round_ddn.tga"
+dest_files=[ "res://.import/vase_round_ddn.tga-4c052373ca14ce9c8839ef7b361fb2b7.s3tc.stex", "res://.import/vase_round_ddn.tga-4c052373ca14ce9c8839ef7b361fb2b7.etc2.stex" ]
 
 [params]
 

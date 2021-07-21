@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/vase_ddn.tga-a736e52f1c7b2a7ebd16c11be1425a3a.stex"
+path="res://.import/vase_ddn.tga-32895b0434055bccf1dae1fe9d26a52b.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://sponza/textures/vase_ddn.tga"
-dest_files=[ "res://.import/vase_ddn.tga-a736e52f1c7b2a7ebd16c11be1425a3a.stex" ]
+source_file="res://scenes/godot-sponza/sponza/textures/vase_ddn.tga"
+dest_files=[ "res://.import/vase_ddn.tga-32895b0434055bccf1dae1fe9d26a52b.stex" ]
 
 [params]
 

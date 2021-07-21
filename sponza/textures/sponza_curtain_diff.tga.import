@@ -2,16 +2,17 @@
 
 importer="texture"
 type="StreamTexture"
-path.s3tc="res://.import/sponza_curtain_diff.tga-6d721f4b2f095e00dc0370c035f9b62e.s3tc.stex"
+path.s3tc="res://.import/sponza_curtain_diff.tga-d467ae60d7b316aa5ae8dd16175d18c3.s3tc.stex"
+path.etc2="res://.import/sponza_curtain_diff.tga-d467ae60d7b316aa5ae8dd16175d18c3.etc2.stex"
 metadata={
-"imported_formats": [ "s3tc" ],
+"imported_formats": [ "s3tc", "etc2" ],
 "vram_texture": true
 }
 
 [deps]
 
-source_file="res://sponza/textures/sponza_curtain_diff.tga"
-dest_files=[ "res://.import/sponza_curtain_diff.tga-6d721f4b2f095e00dc0370c035f9b62e.s3tc.stex" ]
+source_file="res://scenes/godot-sponza/sponza/textures/sponza_curtain_diff.tga"
+dest_files=[ "res://.import/sponza_curtain_diff.tga-d467ae60d7b316aa5ae8dd16175d18c3.s3tc.stex", "res://.import/sponza_curtain_diff.tga-d467ae60d7b316aa5ae8dd16175d18c3.etc2.stex" ]
 
 [params]
 

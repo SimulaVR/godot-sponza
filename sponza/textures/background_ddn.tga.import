@@ -2,16 +2,17 @@
 
 importer="texture"
 type="StreamTexture"
-path.s3tc="res://.import/background_ddn.tga-c1c40f27c90614baffe49d30f81641f5.s3tc.stex"
+path.s3tc="res://.import/background_ddn.tga-fab140936559c1409d2b44a667c1049a.s3tc.stex"
+path.etc2="res://.import/background_ddn.tga-fab140936559c1409d2b44a667c1049a.etc2.stex"
 metadata={
-"imported_formats": [ "s3tc" ],
+"imported_formats": [ "s3tc", "etc2" ],
 "vram_texture": true
 }
 
 [deps]
 
-source_file="res://sponza/textures/background_ddn.tga"
-dest_files=[ "res://.import/background_ddn.tga-c1c40f27c90614baffe49d30f81641f5.s3tc.stex" ]
+source_file="res://scenes/godot-sponza/sponza/textures/background_ddn.tga"
+dest_files=[ "res://.import/background_ddn.tga-fab140936559c1409d2b44a667c1049a.s3tc.stex", "res://.import/background_ddn.tga-fab140936559c1409d2b44a667c1049a.etc2.stex" ]
 
 [params]
 

@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/spnza_bricks_a_spec.tga-4ae1131baf08b96a76c07f8b6704b7f0.stex"
+path="res://.import/spnza_bricks_a_spec.tga-b4b84033bdcccd6e38dc31c30310f4e8.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://sponza/textures/spnza_bricks_a_spec.tga"
-dest_files=[ "res://.import/spnza_bricks_a_spec.tga-4ae1131baf08b96a76c07f8b6704b7f0.stex" ]
+source_file="res://scenes/godot-sponza/sponza/textures/spnza_bricks_a_spec.tga"
+dest_files=[ "res://.import/spnza_bricks_a_spec.tga-b4b84033bdcccd6e38dc31c30310f4e8.stex" ]
 
 [params]
 
